@@ -48,7 +48,7 @@ Key Performance Indicators (KPIs) in an HR data analytics project using Power BI
 
 ## Contributor
 
-## Y.C.Mudliar [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/yogeshmudliar?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvVmiEG3QRzCUGZBZBFpWow%3D%3D))
+## Y.C.Mudliar [![linkedin.com/in/yogeshmudliar](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ## Reference
 
